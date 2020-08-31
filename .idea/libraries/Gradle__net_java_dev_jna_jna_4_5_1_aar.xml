@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: net.java.dev.jna:jna:4.5.1@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ab5a578a2b0c968d9994c7ac4bea3594/jetified-jna-4.5.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ab5a578a2b0c968d9994c7ac4bea3594/jetified-jna-4.5.1/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.java.dev.jna/jna/4.5.1/58247f8b3b0e2dcefd62dbe755288f48a9e60825/jna-4.5.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.java.dev.jna/jna/4.5.1/965bf0f4cf5b71c2b1e9bb5a8d7b6919020e0492/jna-4.5.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
